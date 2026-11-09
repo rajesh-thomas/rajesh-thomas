@@ -19,8 +19,6 @@ Advancing AI-assisted threat intelligence, adversary simulation, and GRC-aware s
 - **Leveraging Network Traffic Byte-Streams for Machine Learning Based Early Botnet Attack Detection.** BUiD Doctoral Research Conference 2024, Springer Nature Switzerland, 2025.
 - **Botnet Detection Using Network Traffic Visualization and Histogram of Oriented Gradients.** 2024 IEEE 16th International Conference on Computational Intelligence and Communication Networks (CICN), 2024. [DOI](https://doi.org/10.1109/CICN63059.2024.10847448)
 - **State-of-the-Art in IoT Forensic Challenges.** 8th International Conference on Information Technology Trends (ITT), IEEE, 2022.
-- **Data-Driven Analysis of Price Change, User Behavior and Wealth Accumulation in Bitcoin Transactions.** ASET, IEEE, 2019.
 - **A Survey of Intrusion Detection Models Based on the NSL-KDD Data Set.** Fifth HCT Information Technology Trends (ITT), IEEE, 2018.
-- **A Survey on Analyzing Bitcoin Transactions.** Fifth HCT Information Technology Trends (ITT), IEEE, 2018.
 
 Full list: [Google Scholar](https://scholar.google.com/citations?user=5Za_SeUAAAAJ)
